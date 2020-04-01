@@ -1,4 +1,4 @@
-﻿Team,Gms,Att,Cmp,Pct,Yds,YPA,TD,Int,Sack,Loss,Rate,NetYds,Yds/G
+﻿Team,Gms,Pass Attempts,Pass Completions,Pass Completion Percentage,Gross Passing Yards,Yards Per Attempt,TD,Int,Sack,Loss,Rate,NetYds,Net Passing Yards Per Game
 Arizona Cardinals,16,554,355,64.1,3797,6.85,20,12,50,320,87,3477,217.3
 Atlanta Falcons,16,684,459,67.1,5049,7.38,29,15,50,335,93.8,4714,294.6
 Baltimore Ravens,16,440,289,65.7,3350,7.61,37,8,28,125,109,3225,201.6
